@@ -1,2 +1,2 @@
-# NLP_project_TAVERNIER_SHEVCHUK
-ML for NLP ENSAE 2023 – Project, topic n°3
+# NLP_intent_classifier_SHEVCHUK_TAVERNIER
+Machine Learning for NLP – ENSAE 2023
